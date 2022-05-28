@@ -96,7 +96,7 @@ def db_seed():
     db.session.add(suian)
     db.session.add(merlilla)
     db.session.add(logain)
-    print('BAM DB Seeded')
+    print('BAM DB Seeded!')
 
 
 if __name__ == '__main__':

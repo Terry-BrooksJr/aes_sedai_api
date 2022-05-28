@@ -12,3 +12,4 @@ python-mimeparse==1.6.0
 six==1.16.0
 SQLAlchemy==1.4.36
 Werkzeug==2.1.2
+Flask-SQLAlchemy==2.5.1
